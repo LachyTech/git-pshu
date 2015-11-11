@@ -5,6 +5,6 @@
 
 #!/bin/sh
 clear
-cat sophie_ascii.txt
+cat $(dirname $0)/sophie_ascii.txt
 echo "Pshuuuuuuuuuuuuu!"
 git push
