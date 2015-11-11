@@ -1,6 +1,6 @@
 Git Pshuuuu!
 ===============
-A fun alias for git push for fans of PriPara
+A fun git alias for fans of PriPara
 
 Installation
 ---------------
