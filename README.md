@@ -2,6 +2,8 @@ Git Pshuuuu!
 ===============
 A fun git alias for fans of PriPara
 
+![Pshuuu!](/images/preview.png)
+
 Installation
 ---------------
 Clone the respository into a directory where you run custom scripts from
